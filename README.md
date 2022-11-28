@@ -1,6 +1,8 @@
 # MiniProyecto
 Desarrollar una solución para calcular un valor aproximado de una integral definida utilizando el método de Simpson 1/3.
 
+# Link para acceder a las diapositivas
+https://www.canva.com/design/DAFTMktKAdg/-QwmJv9H9e3FT6NqI-wMNQ/view?utm_content=DAFTMktKAdg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### Simpson 1/3
 
