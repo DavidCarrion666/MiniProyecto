@@ -17,6 +17,5 @@ esas variantes
 n es el número de subintervalos con los que se desea trabajar. Este dato es 
 ingresado por el usuario o definido por ustedes en su programa.
 OJO que esta aproximación únicamente funciona cuando el n es par.
- Para mayores detalles revisar:
 
 ### Simpson 1/3 extendida
