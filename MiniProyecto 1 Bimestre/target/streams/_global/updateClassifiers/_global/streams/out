@@ -1,3 +1,4 @@
-[debug] not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/C:/Users/Usuario%20iTC/Desktop/MiniProyecto/MiniProyecto%201%20Bimestre/"), "root")...
-[debug] Done updating ProjectRef(uri("file:/C:/Users/Usuario%20iTC/Desktop/MiniProyecto/MiniProyecto%201%20Bimestre/"), "root")
+[warn] scala3-library_3-3.2.1-sources.jar no longer exists at C:\Users\Usuario iTC\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.2.1\scala3-library_3-3.2.1-sources.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Users/DELL/Desktop/Scala/MiniProyecto/MiniProyecto%201%20Bimestre/"), "root")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/DELL/Desktop/Scala/MiniProyecto/MiniProyecto%201%20Bimestre/"), "root")
